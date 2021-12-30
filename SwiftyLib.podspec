@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source       = { :git => "https://github.com/GauravIos/SwiftyLib.git", :tag => "{0.0.1}" }
-
+  #  source git@github.com:GauravIos/SwiftyLib.git 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
